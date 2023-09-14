@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Ahmed Hess",
+		"phone": "1-907-619-0265",
+		"email": "lectus.a.sollicitudin@yahoo.ca",
+		"address": "846-3308 Magna Rd.",
+		"list": 11,
+		"country": "Austria",
+		"region": "Central Region",
+		"postalZip": "234155",
+		"text": "at augue id ante dictum cursus. Nunc mauris elit, dictum",
+		"currency": "$19.99",
+		"numberrange": 4,
+		"alphanumeric": "JUF02URU1TD"
+	},
+	{
+		"name": "Jermaine Dejesus",
+		"phone": "(991) 672-1463",
+		"email": "eu.neque@protonmail.org",
+		"address": "601-5359 Risus Street",
+		"list": 19,
+		"country": "France",
+		"region": "Ceará",
+		"postalZip": "284836",
+		"text": "leo. Vivamus nibh dolor, nonummy ac, feugiat non, lobortis quis,",
+		"currency": "$11.51",
+		"numberrange": 7,
+		"alphanumeric": "YPA93MCW1GU"
+	},
+	{
+		"name": "Alika Miranda",
+		"phone": "1-727-456-2087",
+		"email": "eleifend.non@aol.org",
+		"address": "Ap #621-2842 Augue Rd.",
+		"list": 7,
+		"country": "Austria",
+		"region": "Ulster",
+		"postalZip": "466291",
+		"text": "Phasellus at augue id ante dictum cursus. Nunc mauris elit,",
+		"currency": "$2.09",
+		"numberrange": 8,
+		"alphanumeric": "NEU51LLO8JV"
+	},
+	{
+		"name": "Acton Anderson",
+		"phone": "1-617-654-7628",
+		"email": "lobortis.quam@protonmail.net",
+		"address": "862-6689 Tortor. St.",
+		"list": 15,
+		"country": "Italy",
+		"region": "North Gyeongsang",
+		"postalZip": "3024",
+		"text": "placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl.",
+		"currency": "$67.93",
+		"numberrange": 4,
+		"alphanumeric": "NVA28NHN5QR"
+	},
+	{
+		"name": "Aidan Howell",
+		"phone": "(574) 226-6863",
+		"email": "vel.arcu@google.net",
+		"address": "577-2498 Lobortis Avenue",
+		"list": 5,
+		"country": "United States",
+		"region": "Cartago",
+		"postalZip": "R4E 8J4",
+		"text": "amet metus. Aliquam erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt",
+		"currency": "$59.98",
+		"numberrange": 5,
+		"alphanumeric": "APN17ASM2DO"
+	}
+]
